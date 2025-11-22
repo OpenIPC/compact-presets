@@ -1,2 +1,2 @@
-# compact-presets
-Compact OpenIPC FPV presets
+# Compact OpenIPC FPV presets
+
